@@ -16,7 +16,7 @@ npm install MushAsterion/wit.js
  
 # Initialization
 ```JavaScript
-const Wit = require('MushAsterion/wit.js');
+const Wit = require('wit.js');
 const WitClient = new Wit({ 'token': YOUR_TOKEN });
 ```
  

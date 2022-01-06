@@ -2,7 +2,7 @@
     "name": "wit.js",
     "version": "1.0.0",
     "description": "A powerful JavaScript library for interacting with the Wit.ai API.",
-    "main": "./lib/Wit.js",
+    "main": "module.js",
     "repository": "",
     "author": "Lucas Petitjean",
     "engines": {

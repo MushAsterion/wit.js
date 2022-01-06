@@ -1,1 +1,2 @@
-module.exports = require('./lib/Wit');
+const Wit = require('./lib/Wit');
+module.exports = Wit;

@@ -1,0 +1,14 @@
+{
+    "name": "wit.js",
+    "version": "1.0.0",
+    "description": "A powerful JavaScript library for interacting with the Wit.ai API.",
+    "main": "module.js",
+    "repository": "",
+    "author": "Lucas Petitjean",
+    "engines": {
+        "node": ">=14.0.0"
+    },
+    "dependencies": {
+        "isomorphic-fetch": "^3.0.0"
+    }
+}

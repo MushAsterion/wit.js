@@ -1,0 +1,7 @@
+[
+    { "name": "wit/bye", "desc": "A binary trait that captures goodbye intents (example:  bye). You do not need to highlight a specific part (or span) in the utterance when you apply a trait." },
+    { "name": "wit/greetings", "desc": "A binary trait that captures greeting intents (example:  hello). You do not need to highlight a specific part (or span) in the utterance when you apply a trait." },
+    { "name": "wit/on_off", "desc": "A trait that deciphers the intent of toggling something (e.g. a device with 2 states), such as turning on the lights, turn the tv off or toggle the shades. You do not need to highlight a specific part (or span) in the utterance when you apply a trait." },
+    { "name": "wit/sentiment", "desc": "A trait that captures the sentiment in an utterance and returns positive, neutral or negative. You do not need to highlight a specific part (or span) in the utterance when you apply a trait." },
+    { "name": "wit/thanks", "desc": "A binary trait that captures thankful intents, such as thank you. You do not need to highlight a specific part (or span) in the utterance when you apply a trait." }
+]
